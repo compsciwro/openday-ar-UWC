@@ -1,7 +1,7 @@
 # 🍬 Open Day AR Experience for UWC
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f83809c6-c476-4bcf-a282-41423ba43f5b" alt="Open Day AR Experience Banner" width="100%">
+  <img width="2172" height="724" alt="openday" src="https://github.com/user-attachments/assets/5e49900f-a6de-46b3-8a4e-d8553553cefc" />
 </p>
 
 A playful **augmented reality experience** created for the **University of the Western Cape Open Day**.
